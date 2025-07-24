@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Gaviria
+Holaaaa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Gaviria
 ========================================================================================================================================
 
 Desarrollador y Coordinador de Software Fullstack Senior
@@ -6,10 +6,10 @@ Desarrollador y Coordinador de Software Fullstack Senior
 
 Tengo amplia experiencia en el desarrollo de aplicaciones backend y frontend en diversos sectores. He trabajado en proyectos empresariales clave, utilizando tecnologías como JavaScript, TypeScript, Angular, React, y Java para crear sistemas de gestión de información, plataformas bancarias, aplicaciones de comercio electrónico y soluciones de software a medida. Mi experiencia incluye el diseño e implementación de arquitecturas escalables y robustas, empleando frameworks como Next.js, Spring e Hibernate, así como la integración de sistemas mediante servicios web y API RESTful. Además, he liderado equipos técnicos, garantizando la entrega de soluciones eficientes y de alto rendimiento.
 
-* 🌍  I'm based in Medellin, Colombia
-* 🖥️  See my portfolio at [Portfolio](http://emma-dev.com/)
-* ✉️  You can contact me at [emmanuel.gaviria.25@gmail.com](mailto:emmanuel.gaviria.25@gmail.com)
-* 🧠  I'm learning continuously many technologies
+* 🌍  Estoy ubicado en Medellin, Colombia
+* 🖥️  Ve a mi portafolio en [Portfolio](http://emma-dev.com/)
+* ✉️  Puedes contactarme en [emmanuel.gaviria.25@gmail.com](mailto:emmanuel.gaviria.25@gmail.com)
+* 🧠  Estoy aprendiendo continuamente...
 
 <a href="https://www.twitch.tv/emmanuelgaviria25" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/emmanuelgaviria25?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
