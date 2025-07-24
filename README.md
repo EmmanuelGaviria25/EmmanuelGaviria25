@@ -7,7 +7,7 @@ Desarrollador y Coordinador de Software Fullstack Senior
 Tengo amplia experiencia en el desarrollo de aplicaciones backend y frontend en diversos sectores. He trabajado en proyectos empresariales clave, utilizando tecnologías como JavaScript, TypeScript, Angular, React, y Java para crear sistemas de gestión de información, plataformas bancarias, aplicaciones de comercio electrónico y soluciones de software a medida. Mi experiencia incluye el diseño e implementación de arquitecturas escalables y robustas, empleando frameworks como Next.js, Spring e Hibernate, así como la integración de sistemas mediante servicios web y API RESTful. Además, he liderado equipos técnicos, garantizando la entrega de soluciones eficientes y de alto rendimiento.
 
 * 🌍  Estoy ubicado en Medellin, Colombia
-* 🖥️  Ve a mi portafolio en [Portfolio](http://emma-dev.com/)
+* 🖥️  Ve a mi [Portafolio](http://emma-dev.com/)
 * ✉️  Puedes contactarme en [emmanuel.gaviria.25@gmail.com](mailto:emmanuel.gaviria.25@gmail.com)
 * 🧠  Estoy aprendiendo continuamente...
 
